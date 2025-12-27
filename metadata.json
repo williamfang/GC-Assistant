@@ -1,0 +1,8 @@
+{
+  "name": "智能垃圾分类助手",
+  "description": "专为儿童和老人设计的智能垃圾分类应用，支持实时相机识别与照片上传，提供清晰的视觉引导与语音反馈。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
